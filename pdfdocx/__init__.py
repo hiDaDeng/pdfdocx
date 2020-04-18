@@ -1,0 +1,1 @@
+from pdfdocx.readfile import read_docx, read_pdf
