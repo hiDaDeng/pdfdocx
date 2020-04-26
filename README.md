@@ -84,7 +84,8 @@ def read_pdf(file):
         for page in PDFPage.create_pages(doc):
             interpreter.process_page(page)
     text = output_string.getvalue()
-    return re.sub('[\n\t\s]', '', text)
+    return text
+
   
 ```
 
