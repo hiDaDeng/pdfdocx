@@ -11,11 +11,15 @@
 
 file为文件路径，函数运行后返回file文件内的文本数据。
 
+<br>
+
 ### 安装
 
 ```
 pip install pdfdocx
 ```
+
+<br>
 
 ### 使用
 
@@ -48,7 +52,7 @@ Run
 ```
 
 
-
+<br>
 
 
 ### 拆开pdfdocx
@@ -109,7 +113,7 @@ def read_docx(file):
     return text
 ```
 
-
+<br>
 
 # 如果
 
@@ -126,6 +130,8 @@ def read_docx(file):
 
 [![](img/课程.png)](https://ke.qq.com/course/482241?tuin=163164df)
 
+
+<br>
 
 
 # 更多
