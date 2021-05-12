@@ -111,11 +111,9 @@ def read_docx(file):
 
 
 
+# 如果
 
-
-## 如果
-
-如果您是经管人文社科专业背景，编程小白，面临海量文本数据采集和处理分析艰巨任务，个人建议学习[《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)视频课。作为文科生，一样也是从两眼一抹黑开始，这门课程是用五年时间凝缩出来的。自认为讲的很通俗易懂o(*￣︶￣*)o，
+如果您是经管人文社科专业背景，编程小白，面临海量文本数据采集和处理分析艰巨任务，可以参看[《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)视频课。作为文科生，一样也是从两眼一抹黑开始，这门课程是用五年时间凝缩出来的。自认为讲的很通俗易懂o(*￣︶￣*)o，
 
 - python入门
 - 网络爬虫
@@ -126,9 +124,11 @@ def read_docx(file):
 
 感兴趣的童鞋不妨 戳一下[《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)进来看看~
 
+[![](img/课程.png)](https://ke.qq.com/course/482241?tuin=163164df)
 
 
-## 更多
+
+# 更多
 
 - [B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)
 
@@ -136,8 +136,7 @@ def read_docx(file):
 
 - [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
 
-    ​    
+<br>
 
-## 支持一下
+![](img/大邓和他的Python.png)
 
-![](img/my_zanshang_qrcode.jpg)
