@@ -3,7 +3,7 @@ import setuptools
 
 setup(
     name='pdfdocx',     # 包名字
-    version='1.7',   # 包版本
+    version='1.8',   # 包版本
     description='读取pdf、docx文件，返回文件内的文本数据。',   # 简单描述
     author='大邓',  # 作者
     author_email='thunderhit@qq.com',  # 邮箱

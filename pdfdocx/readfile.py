@@ -6,7 +6,7 @@ def read_pdf(file):
     text = ''
     with fitz.open(file) as doc:
         for page in doc:
-            text+= re.sub('\s', '', page.get_text())
+            text+= page.get_text()
     return text
 
 
